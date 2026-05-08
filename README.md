@@ -7,6 +7,8 @@ Reliving the days of lines of code being the measurement of success?
 
 Show your friends the absurdity of it all with this fun Halloween demo!
 
+[See thr demo in action on youtube](https://youtu.be/mQrXpcMRnyA)
+
 ## Overview
 A USB HID demo for an ATmega32U4 board such as an Arduino Leonardo, Micro, or
 USB Beetle. After a startup delay, it types notes into a local chat window as
