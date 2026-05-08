@@ -3,7 +3,7 @@
 #include <avr/pgmspace.h>
 
 /*
-  Overlook Winter Caretaker
+  Overlook Token Maxxer
 
   A harmless USB HID demo for ATmega32U4 boards such as Arduino Leonardo,
   Micro, or USB Beetle. It types response-blind notes into a local chat window
