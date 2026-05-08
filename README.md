@@ -1,4 +1,4 @@
-# Overlook Winter Caretaker
+# Overlook Token Maxxer
 
 A USB HID demo for an ATmega32U4 board such as an Arduino Leonardo, Micro, or
 USB Beetle. After a startup delay, it types notes into a local chat window as
