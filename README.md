@@ -1,5 +1,13 @@
 # Overlook Token Maxxer
 
+## Pitch
+Big Tech insisting on Token Maxxing to grind that promo?
+
+Reliving the days of lines of code being the measurement of success? 
+
+Show your friends the absurdity of it all with this fun Halloween demo!
+
+## Overview
 A USB HID demo for an ATmega32U4 board such as an Arduino Leonardo, Micro, or
 USB Beetle. After a startup delay, it types notes into a local chat window as
 Jack works on his book while caretaking an empty mansion in the off season.
